@@ -1,0 +1,756 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ani",
+				"animalImage"
+			],
+			[
+				"animal",
+				"animalDiv"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"an",
+				"animalImage"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"co",
+				"countdown"
+			],
+			[
+				"se",
+				"setTimeout"
+			],
+			[
+				"coutn",
+				"countdown"
+			],
+			[
+				"stat",
+				"startGame"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"Rand",
+				"RandomQuestion"
+			],
+			[
+				"Se",
+				"SelectAnswer"
+			],
+			[
+				"L",
+				"Light"
+			],
+			[
+				"M",
+				"Mance"
+			],
+			[
+				"B",
+				"Blackwater"
+			],
+			[
+				"ans",
+				"ans4"
+			],
+			[
+				"que",
+				"questionCount"
+			],
+			[
+				"ques",
+				"questionCount"
+			],
+			[
+				"start",
+				"startButton"
+			],
+			[
+				"qu",
+				"questionCount"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"movi",
+				"movieDiv"
+			],
+			[
+				"mo",
+				"movieDiv"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"rat",
+				"Rating"
+			],
+			[
+				"displ",
+				"displayMovieInfo"
+			],
+			[
+				"movie",
+				"moviesView"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"f",
+				"football"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bas",
+				"basketball"
+			],
+			[
+				"r",
+				"randNum"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"time",
+				"time-left"
+			],
+			[
+				"la",
+				"lastName"
+			],
+			[
+				"the",
+				"theChosenOne"
+			],
+			[
+				"ra",
+				"randomNumber"
+			],
+			[
+				"word",
+				"wordguess"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"bigg",
+				"biggerWeb"
+			],
+			[
+				"sm",
+				"smallerWeb"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"bi",
+				"biggestWeb"
+			],
+			[
+				"th",
+				"theCobWeb"
+			],
+			[
+				"le",
+				"lettersGuessed"
+			],
+			[
+				"lette",
+				"lettersGuessed"
+			],
+			[
+				"gu",
+				"guess-num"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"guess_",
+				"guess_num"
+			],
+			[
+				"lo",
+				"losses"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"remaining",
+				"remainingLetters"
+			],
+			[
+				"al",
+				"alphabetChoice"
+			],
+			[
+				"data",
+				"data-let"
+			],
+			[
+				"lett",
+				"letter-button-color"
+			],
+			[
+				"ler",
+				"letter-button"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"Sna",
+				"sandwiches"
+			],
+			[
+				"dri",
+				"drinkList"
+			],
+			[
+				"new",
+				"newDrinkDiv"
+			],
+			[
+				"drin",
+				"drinkList"
+			],
+			[
+				"drink",
+				"drinkDiv"
+			],
+			[
+				"creat",
+				"create"
+			],
+			[
+				"get",
+				"getTuneUp"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"Lose"
+			],
+			[
+				"Al",
+				"alert"
+			],
+			[
+				"use",
+				"userGuess"
+			],
+			[
+				"uesr",
+				"userGuess"
+			],
+			[
+				"computer",
+				"computerGuess"
+			],
+			[
+				"Char",
+				"charAt"
+			],
+			[
+				"m",
+				"myFarm"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"con",
+				"confirm"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"Wid",
+				"width"
+			],
+			[
+				"FOnt",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"bck",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelmagnani/Desktop/bootcamp/GroupW6/javascript/gif.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/javascript/gif.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/javascript/index.html",
+		"/Users/michaelmagnani/Downloads/- (8).html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/gifs/- (9).html",
+		"/Users/michaelmagnani/Downloads/- (7).html",
+		"/Users/michaelmagnani/Downloads/- (10).html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/assets/javascript/app.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/index.html",
+		"/Users/michaelmagnani/Downloads/01-CatButton_Students.html",
+		"/Users/michaelmagnani/Downloads/3-DynamicElements-Students.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/Movie ajax/2-MovieJSONDump.html",
+		"/Users/michaelmagnani/Downloads/LogMovieName_Starter.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/ClickJSON_Starter.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/LogMovieName_Starter.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week6/week6ClassWork/MovieButtonLayout_Easier.html",
+		"/Users/michaelmagnani/Downloads/Bujumbura_Easier.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week5 in Class/ajax/- (6).html",
+		"/Users/michaelmagnani/Downloads/-.txt",
+		"/Users/michaelmagnani/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelmagnani/Downloads/5.1.9_simple_timer.html",
+		"/Users/michaelmagnani/Downloads/- (6).html",
+		"/Users/michaelmagnani/Downloads/LexicalScope3.html",
+		"/Users/michaelmagnani/Downloads/5.1.11_interval.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week5 in Class/stopwatch.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/asset/javascript/game.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/asset/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/assets/javascript/untitled.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/asset/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-StarWars/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/assets/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/week-5-game-basic-Trivia/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/assets/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/index.php",
+		"/Users/michaelmagnani/Desktop/CG/week-4-game-Crystals-Game/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game-Crystals-Game/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/assets/javascript/game.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/assets/css/style.css",
+		"/Users/michaelmagnani/Downloads/http:::www.omdbapi.com:",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/assets/javascript/game.js",
+		"/Users/michaelmagnani/Downloads/scopeQuiz_unsolved.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week5/index.html",
+		"/Users/michaelmagnani/Downloads/coin_flip (1).html",
+		"/Users/michaelmagnani/Downloads/rock,paper,scissors.html",
+		"/Users/michaelmagnani/Downloads/this-unsolved (1).html",
+		"/Users/michaelmagnani/Downloads/- (3).html",
+		"/Users/michaelmagnani/Downloads/- (1).html",
+		"/Users/michaelmagnani/Downloads/- (2).html",
+		"/Users/michaelmagnani/Downloads/stopwatch.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/the Psychic/assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/assets/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-crystals-game/week-4-game-Crystals-Game/index.php",
+		"/Users/michaelmagnani/Downloads/style (1).css",
+		"/Users/michaelmagnani/Downloads/5.1.4_this.html",
+		"/Users/michaelmagnani/Downloads/5.1.4_this (1).html",
+		"/Users/michaelmagnani/Downloads/coin_flip.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/assets/javascript/game.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/the Psychic/assets/javascript/game.js",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/assets/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/assets/css/reset.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/week-4-game/week-4-game-StarWars/index,html",
+		"/Users/michaelmagnani/Desktop/bootcamp/the Psychic/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/jQuery/Cap Planet/CaptainPlanetGame.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Games/roc:paper:S/untitled.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/the Psychic/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/the Psychic/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Variables/JSDissect.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Variables/arraysactivity copy.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Variables/PizzaVariables.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Variables/PromptSushi.html",
+		"/Users/michaelmagnani/Downloads/rock,paper,scissors.html.zip",
+		"/Users/michaelmagnani/Desktop/bootcamp/Hangman/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/roc:paper:S/untitled.html",
+		"/Users/michaelmagnani/Downloads/CaptainPlanetGame.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio1/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/jQuery/fridge/fridge.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week4/jQuery/fridge/fridge (1).html",
+		"/Users/michaelmagnani/Downloads/TriggerRandom_UNSOLVED (1).html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/week-3-game/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week1/HomeWorkFrame1/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week1/HomeWorkFrame1/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week1/HomeWorkFrame1/README.md",
+		"/Users/michaelmagnani/Desktop/bootcamp/Basic-Portfolio/README.md",
+		"/Users/michaelmagnani/Desktop/bootcamp/Basic-Portfolio/Assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Basic-Portfolio/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio/assignment2/startbootstrap-freelancer-1.0.5/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio/assignment1/Assets/images/4af08a2fc-4383-4c8a-b6fb-5107804d08a7.jpg",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio/assignment1/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio/assignment1/index.php",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week2/Portfolio/assignment1/portfolio.html",
+		"/Users/michaelmagnani/Downloads/carObject_Unsolved.html",
+		"/Users/michaelmagnani/Downloads/MyFirstFunctions_Unsolved.html",
+		"/Users/michaelmagnani/Downloads/LoopTV_Unsolved.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/HW3/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/HW3/assets/css/reset.css",
+		"/Users/michaelmagnani/Downloads/ArrayLogs_UNSOLVED.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment1/Assets/images/1462490806_github2.svg",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment2/startbootstrap-freelancer-1.0.5/README.md",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment1/index.html",
+		"/Users/michaelmagnani/Desktop/QuickHerokuDemo/composer.json",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment1/Assets/css/style.css",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment1/contact.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment1/portfolio.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment2/startbootstrap-freelancer-1.0.5/index.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment2/startbootstrap-freelancer-1.0.5/css/freelancer.css",
+		"/Users/michaelmagnani/Downloads/PizzaVariables (5).html",
+		"/Users/michaelmagnani/Downloads/PromptSushi.html",
+		"/Users/michaelmagnani/Downloads/arraysactivity.html",
+		"/Users/michaelmagnani/Downloads/4-PizzaVariables.html",
+		"/Users/michaelmagnani/Desktop/untitled.html",
+		"/Users/michaelmagnani/Desktop/bootcamp/Week3/Portfolio/assignment2/startbootstrap-freelancer-1.0.5/css/bootstrap.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"kyloren",
+			"guess",
+			"guessInt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
