@@ -52,3 +52,10 @@ button {
   padding: 1rem;
 
 }
+@media only screen and (max-width: 414px) {
+  .row {width:280px!important; padding:0;}  
+  .score {text-align: center!important;}
+  .timer {text-align: center!important;} 
+  .question {text-align: center!important;}
+     
+    }
