@@ -1,6 +1,11 @@
 // audio File
 var audio = new Audio('assets/audio/Game of Thrones.mp3');
+   function playAudio() {
     audio.play();
+   }
+  function pauseAudio() {
+    audio.pause();
+   }
 
 $(document).ready(function(){
 
@@ -36,7 +41,7 @@ $(document).ready(function(){
      };
   var q4 = {
     	question: "What is the name of the so-called King Beyond the Wall, the leader of the Wildings?",
-  	  choice1: "Mance Rayder ",
+  	  choice1: "Mance Rayder",
   	  choice2: "Jeor Mormont",
       choice3: "Qhorin Halfhand", 
       choice4: "Jon Snow",
